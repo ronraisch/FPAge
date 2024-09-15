@@ -1,0 +1,46 @@
+FPAge License
+1. Preamble
+This license governs the use of the software code and data accompanying FPAge, developed by Ron Raisch(code) and HUJI (Hebrew Univeristy of Jerusalem, Israel)+Israel's Police (data). 
+The intent is to allow academic and research use while restricting commercial exploitation without explicit permission.
+This license aims to ensure proper attribution of the work, promote ethical use, and preserve the integrity of the data.
+
+2. Grant of Rights
+Permitted Use: Users are granted a non-exclusive, non-transferable license to use, reproduce, and modify the code and data for academic, research, and educational purposes only.
+Distribution: Users may distribute the code and any modifications for non-commercial purposes, provided they include this license and appropriate attribution.
+
+3. Restrictions
+Non-Commercial Use Only: The code and data may not be used, in whole or in part, for any commercial purposes without prior written consent from HUJI+Israel's Police at fpagedata@gmail.com.
+
+Attribution and Citation: Any use of the code or data must include proper attribution to the original authors and cite the following publication:
+
+Rajs, N., Harush-Brosh, Y., Raisch, R., Yakobi, R., Zoabi, A., Nevet Golan, G., Shpitzen, M., Wiesner, S. S., Levin-Elad, M., & Margulis, K. (2024).
+Age Determination of Latent Fingerprints Directly from Forensic Adhesive Tape Using Ultrafast Desorption Electrospray Ionization Mass Spectrometry and Machine Learning.
+Division of Identification and Forensic Science, Israel Police, & The Hebrew University of Jerusalem.
+
+No Unauthorized Redistribution: Users may not sublicense, sell, or redistribute the code or data for commercial purposes without obtaining explicit permission from HUJI & Israel's Police at fpagedata@gmail.com.
+
+4. Data Privacy and Ethical Use
+Data Privacy: Users must comply with all applicable data protection laws and regulations.
+Any personal or sensitive information contained in the data must not be used to identify individuals.
+Ethical Use: The code and data must not be used in any unlawful or unethical manner, 
+including but not limited to violating individuals' privacy or using the data in ways that could cause harm.
+
+5. Disclaimer of Warranty
+The code and data are provided "as is," without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+HUJI & Israel's Police makes no warranties that the code or data will be error-free or that their use will be uninterrupted.
+
+6. Limitation of Liability
+In no event shall HUJI & Israel's Police be liable for any claims, damages, or other liabilities, 
+whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the use of the code or data.
+
+7. Governing Law
+This license shall be governed by and construed in accordance with the laws of Israel, without regard to its conflict of law provisions.
+Any legal disputes arising under this license will be subject to the jurisdiction of the courts of Israel.
+
+8. Contact Information
+For inquiries regarding commercial use or any other matters related to this license, please contact:
+
+Ron Raisch, Katherine Margulis
+Israel's Police, HUJI
+fpagedata@gmail.com
