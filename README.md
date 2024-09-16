@@ -15,9 +15,13 @@ The method presented in the paper utilizes ultrafast two-dimensional desorption 
 
 ### Key Highlights
 - Collection of 750 fingerprints from 330 volunteers.
-- XGBoost algorithm used for age prediction, achieving a correlation of 0.54 for fingerprint age and an accuracy of 83.3% in distinguishing between fresh (0-4 days) and older (10-15 days) fingerprints.
+- XGBoost algorithm used for age prediction, achieving a correlation of 0.5 for fingerprint age and an accuracy of 83.3% in distinguishing between fresh (0-4 days) and older (10-15 days) fingerprints.
 - DESI-MS imaging performed directly on the adhesive tape, which speeds up forensic workflows.
 - Collaboration between police forensic divisions and academic institutions ensures practical application.
+
+<img src="./images/fig7.png" alt="XGBoost model predictions" width="500"/>
+
+*XGBoost model predictions for fingerprint age. Confusion matrix for fresh vs. old fingerprints.*
 
 ![Molecular Ions in the developed fingerprint](./images/fig3.png)
 
@@ -97,10 +101,6 @@ Key optimization steps:
 ### Results
 
 Using this approach, fingerprints were successfully classified as either fresh (0-4 days) or aged (10-15 days) with **83.3% accuracy**. The technique allows for rapid and reliable dating of fingerprints, filling a crucial gap in forensic science.
-
-![XGBoost model predictions](./images/fig7.png)
-
-*XGBoost model predictions for fingerprint age. Confusion matrix for fresh vs. old fingerprints.*
 
 ## References
 
