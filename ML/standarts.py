@@ -18,4 +18,4 @@ VAL_SIZE = 0.1
 # Define a metric choice parameter
 CV_FOLDS = 5
 DATASET_FILE_NAME = f'ML{os.sep}datasets{os.sep}dataset'
-NOISE_FOLDER = f'FPAge{os.sep}data{os.sep}ML{os.sep}noise_measurements'
+NOISE_FOLDER = f'data{os.sep}ML{os.sep}noise_measurements'
