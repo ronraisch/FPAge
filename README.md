@@ -15,7 +15,7 @@ The method presented in the paper utilizes ultrafast two-dimensional desorption 
 
 ### Key Highlights
 - Collection of 750 fingerprints from 330 volunteers.
-- XGBoost algorithm used for age prediction, achieving a correlation of 0.5 for fingerprint age and an accuracy of 83.3% in distinguishing between fresh (0-4 days) and older (10-15 days) fingerprints.
+- XGBoost algorithm used for age prediction, achieving a correlation of 0.54 for fingerprint age and an accuracy of 83.3% in distinguishing between fresh (0-4 days) and older (10-15 days) fingerprints.
 - DESI-MS imaging performed directly on the adhesive tape, which speeds up forensic workflows.
 - Collaboration between police forensic divisions and academic institutions ensures practical application.
 
@@ -50,7 +50,12 @@ This project uses `conda` to manage dependencies. Make sure you have `conda` ins
     conda install matplotlib seaborn pandas pyarrow numpy openpyxl scikit-learn xgboost scipy jupyter
     ```
 
-4. Clone the repository and add the `data` folder.
+4. Clone the repository:
+    ```bash
+    git clone https://github.com/ronraisch/FPAge.git
+    ```
+
+5. Add the `data` folder to the repository.
 
     After adding the `data` folder, the notebooks should run seamlessly with the appropriate conda environment.
 
@@ -70,7 +75,7 @@ Division of Identification and Forensic Science, Israel Police, & The Hebrew Uni
 
 ### Contact
 
-For any questions, clarifications, or special requests regarding the code, feel free to send an email to [fpagedata@gmail.com](mailto:fpagedata@gmail.com) with `[CODE]` in the subject line. We are happy to assist you.
+For any questions, clarifications, or special requests regarding the code, feel free to send an email to [fpagedata@gmail.com](mailto:fpagedata@gmail.com) with `[QUESTION]` in the subject line. We are happy to assist you.
 
 ## Paper Summary
 
